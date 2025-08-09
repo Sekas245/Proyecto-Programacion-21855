@@ -10,7 +10,7 @@ struct paciente{
     char sexo;
     
 };
-
+//:)
 int main(){
     int op;
     cout<<"=========================="<<endl;
